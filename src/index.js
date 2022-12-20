@@ -220,7 +220,7 @@ class App extends React.Component{
         <div className="topbox">
           <h1>Nations Photo Lab Error Report</h1>
         </div>
-        <Table data={this.state.data} columns={cols} headerFixed={this.state.tableHeaderFixed} scrollFn=''/>
+        <Table data={this.state.data} columns={cols} headerFixed={this.state.tableHeaderFixed} scrollFn=''/> 
       </div>
     )
   }
