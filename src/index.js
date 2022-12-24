@@ -218,11 +218,13 @@ class App extends React.Component{
     return (
       <div className="container">
         <div className="topbox">
-          <h1>Nations Photo Lab Error Report</h1>
+          <h1>Nations Photo Lab Error Report kingsley</h1>
         </div>
         <Table data={this.state.data} columns={cols} headerFixed={this.state.tableHeaderFixed} scrollFn=''/> 
       </div>
     )
+
+
   }
 };
 
