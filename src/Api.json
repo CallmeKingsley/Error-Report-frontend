@@ -1,0 +1,154 @@
+{
+    "Data":[
+        {
+            "userId": "02938a68-r9b0-469d-8bce-04f68ed657e0",
+            "platForm": "IOS",
+            "date": "Dec 12,2020",
+            "isFatal": "true",
+            "version": "145",
+            "build": "192",
+            "errorType": "native related",
+            "errorMessage": "Invalid PHAssetCollectionSubtype 'kingsley'. should be one of: ("
+        },
+        {
+            "userId": "22938a68-b9b0-469d-8bce-04f68ed657e0",
+            "platForm": "IOS",
+            "date": "Jan 22,2120",
+            "isFatal": "true",
+            "errorType": "native related",
+            "version": "145",
+            "build": "192",
+            "errorMessage": "Invalid PHAssetCollectionSubtype 'kingsley'. should be one of: ("
+        },
+        {
+            "userId": "22938a68-b9b0-469d-8bce-04f68ed657e0",
+            "platForm": "IOS",
+            "date": "Fed 2,2020",
+            "isFatal": "true",
+            "errorType": "native related",
+            "version": "145",
+            "build": "192",
+            "errorMessage": "Invalid PHAssetCollectionSubtype 'kingsley'. should be one of: ("
+        },
+        {
+            "userId": "22938a68-b9b0-469d-8bce-04f68ed657e0",
+            "platForm": "IOS",
+            "date": "Mar 20,2020",
+            "isFatal": "true",
+            "errorType": "native related",
+            "version": "145",
+            "build": "192",
+            "errorMessage": "Invalid PHAssetCollectionSubtype 'kingsley'. should be one of: ("
+        },
+        {
+            "userId": "22938a68-b9b0-469d-8bce-04f68ed657e0",
+            "platForm": "IOS",
+            "date": "Mar 20,2022",
+            "isFatal": "true",
+            "errorType": "native related",
+            "version": "145",
+            "build": "192",
+            "errorMessage": "Invalid PHAssetCollectionSubtype 'kingsley'. should be one of: ("
+        },
+        {
+            "userId": "12938a68-b9b0-469d-8bce-0of68ed657e9",
+            "platForm": "IOS",
+            "date": "Dec 22,2020",
+            "isFatal": "true",
+            "errorType": "javascript related",
+            "version": "145",
+            "build": "192",
+            "errorMessage": "Invalid PHAssetCollectionSubtype 'kingsley'. should be one of: ("
+        },
+        {
+            "userId": "12938a68-b9b0-469d-8bce-0of68ed657e9",
+            "platForm": "IOS",
+            "date": "Dec 22,2020",
+            "isFatal": "true",
+            "errorType": "javascript related",
+            "version": "145",
+            "build": "192",
+            "errorMessage": "Invalid PHAssetCollectionSubtype 'kingsley'. should be one of: ("
+        },
+        {
+            "userId": "12938a68-b9b0-469d-8bce-0of68ed657e9",
+            "platForm": "IOS",
+            "date": "Dec 22,2020",
+            "isFatal": "true",
+            "errorType": "javascript related",
+            "version": "145",
+            "build": "192",
+            "errorMessage": "Invalid PHAssetCollectionSubtype 'kingsley'. should be one of: ("
+        },
+        {
+            "userId": "00938a68-b9b0-469d-8bce-04f68ed657e2",
+            "platForm": "IOS",
+            "date": "Dec 22,2020",
+            "isFatal": "true",
+            "errorType":  "api call fail",
+            "version": "145",
+            "url": "https://guidgenerator.com/online-guid-generator.aspx",
+            "payload": "{name: 'kingsley', lastname: 'akpam'}",
+            "method": "POST",
+            "build": "192",
+            "functionName": "addUser",
+            "cause": "Crash cause of api loading"
+        },
+        {
+            "userId": "00938a68-b9b0-469d-8bce-04f68ed657e2",
+            "platForm": "IOS",
+            "date": "Dec 22,2020",
+            "isFatal": "true",
+            "errorType": "api call fail",
+            "version": "145",
+            "url": "https://guidgenerator.com/online-guid-generator.aspx",
+            "payload": "{name: 'kingsley', lastname: 'akpam'}",
+            "method": "POST",
+            "build": "192",
+            "functionName": "addUser",
+            "cause": "Crash cause of api loading"
+        },
+        {
+            "userId": "00938a68-b9b0-469d-8bce-04f68ed657e2",
+            "platForm": "IOS",
+            "date": "Dec 22,2020",
+            "isFatal": "true",
+            "errorType":  "api call fail",
+            "version": "145",
+            "build": "192",
+            "url": "https://guidgenerator.com/online-guid-generator.aspx",
+            "payload": "{name: 'kingsley', lastname: 'akpam'}",
+            "method": "POST",
+            "functionName": "addUser",
+            "cause": "Crash cause of api loading"
+        },
+        {
+            "userId": "00938a68-b9b0-469d-8bce-04f68ed657e2",
+            "platForm": "IOS",
+            "date": "Dec 22,2020",
+            "isFatal": "true",
+            "errorType": "api return error",
+            "version": "145",
+            "build": "192",
+            "url": "https://guidgenerator.com/online-guid-generator.aspx",
+            "payload": "{name: 'kingsley', lastname: 'akpam'}",
+            "method": "POST",
+            "functionName": "addUser",
+            "cause": "Crash cause of api loading"
+        },
+        {
+            "userId": "00938a68-b9b0-469d-8bce-04f68ed657e2",
+            "platForm": "IOS",
+            "date": "Dec 22,2020",
+            "isFatal": "true",
+            "errorType": "api return error",
+            "version": "145",
+            "build": "192",
+            "url": "https://guidgenerator.com/online-guid-generator.aspx",
+            "payload": "{name: 'kingsley', lastname: 'akpam'}",
+            "method": "POST",
+            "functionName": "addUser",
+            "cause": "Crash cause of api loading"
+        }
+    ]
+}
