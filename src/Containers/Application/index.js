@@ -115,6 +115,7 @@ class  ApplicationErrorScreen extends PureComponent {
               <DisplayDetails data ={{title: 'userId', details: this.state.data.userId}}/>
               <DisplayDetails data ={{title: 'version', details: this.state.data.version}}/>
               <DisplayDetails data ={{title: 'build', details: this.state.data.build}}/>
+              <DisplayDetails data ={{title: 'Error Message', details: this.state.data.errorMessage}}/>
               <DisplayDetails data ={{title: 'resolveby', details: this.state.data.resolveby}}/>
            </div>
            

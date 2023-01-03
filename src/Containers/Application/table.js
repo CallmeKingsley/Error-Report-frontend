@@ -5,7 +5,7 @@ export function TableHeader (){
     return(
        <div style={{display: 'flex', flexDirection: 'row', width: 1200, backgroundColor: '#d47857', justifyContent: 'space-between'}}>
           <div style={{ width: 180, height: 60,display: 'flex', backgroundColor: '#d47857', justifyContent: 'center', alignItems: 'center'}}>
-             <h3 style={{color: '#fff',fontSize: 16,fontWeight: 'bold'}}>Record Date</h3>
+             <h3 style={{color: '#fff',fontSize: 16,fontWeight: 'bold'}}>Recorded Date</h3>
           </div>
           <div style={{ width: 180, height: 60,display: 'flex', backgroundColor: '#d47857',justifyContent: 'center', alignItems: 'center'}}>
              <h3  style={{color: '#fff',fontSize: 16,fontWeight: 'bold'}}>User id</h3>
