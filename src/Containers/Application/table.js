@@ -34,7 +34,7 @@ export function TableBody (data){
              <h3 style={{color: '#000', fontSize: 14, fontWeight: 'bold'}}>{dateCreated}</h3>
           </div>
           <div style={{ width: 180, height: 60,display: 'flex',backgroundColor: '#e6e7e8',justifyContent: 'center', alignItems: 'center'}}>
-             <h3  style={{color: '#000', fontSize: 14}}>{userId.slice(0, 20)}</h3>
+             <h3  style={{color: '#000', fontSize: 14}}>{userId}</h3>
           </div>
           <div style={{ width: 180, height: 60,display: 'flex', backgroundColor: '#e6e7e8',justifyContent: 'center', alignItems: 'center'}}>
              <h3  style={{color:  '#000', fontSize: 14}}>{isFatal.slice(0, 20)}</h3>

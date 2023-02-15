@@ -69,6 +69,7 @@ class  ApplicationErrorScreen extends PureComponent {
    render(){
       console.log(this.state.data)
       const arr = this.filterExclude(this.context.data)
+      console.log('=========',arr)
       return (
         <div  style={{display: 'flex', alignItems: 'center', height: window.innerHeight, flexDirection: 'column'}}>
          <div  style={{height: 100}}>
@@ -151,6 +152,7 @@ class  ApplicationErrorScreen extends PureComponent {
    fetch('https://error-report-station.herokuapp.com/api/error/getErrors')
    .then((response) => response.json())
    .then(data => {
+      console.log('data data data',data)
        this.setState({ appData: data.errors });
    });
 } 
